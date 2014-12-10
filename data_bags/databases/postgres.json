@@ -1,0 +1,32 @@
+{
+  "id":"postgres",
+  "user_data": [
+    {
+    "user": "user1",
+    "password": "user1"
+  },
+  {
+    "user": "user2",
+    "password": "user2"
+  },
+  {
+    "user": "user3",
+    "password": "user3"
+  },
+  {
+    "user": "user4",
+    "password": "user4"
+  },
+  {
+    "user": "user5",
+    "password": "user5"
+  }
+  ],
+  "mydb":[
+    {"db": "db1"},
+    {"db": "db2"},
+    {"db": "db3"},
+    {"db": "db4"}
+  ]
+}
+
